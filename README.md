@@ -1,6 +1,6 @@
 👋 hey, I’m @lxbtlr
 
-🌱 I’m currently attending Olin College of Engineering as an Electrical & Computer Engineering student, currently working @ IBM
+🌱 I’m attending Olin College of Engineering as an Electrical & Computer Engineering student, currently working @ IBM
 
 📫 you can reach me at lxbtlr@pm.me
 
