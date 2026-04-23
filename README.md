@@ -4,8 +4,6 @@
 
 🌌 My academic & working experience focus the last couple years has been in Microcode & System Architecture for chip development.
 
-🌱 I have a few interesting projects hosted here, spanning mixed analog & digital VLSI design, scientific computing, and more. 
-
 📫 If you have any questions or want to chat you can best reach me at lxbtlr@pm.me 💭
 
 <!---
